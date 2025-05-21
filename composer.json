@@ -1,5 +1,5 @@
 {
-    "name": "ahmedsaoud31/laravel-permission-to-vuejs",
+    "name": "jensepas/laravel-permission-to-vuejs",
     "description": "Laravel Permission Package To Use it in VueJs",
     "type": "plugin",
     "require": {
@@ -20,8 +20,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Ahmed Abeoelsaoud",
-            "email": "ahmedsaoud31@gmail.com"
+            "name": "jensepas",
+            "email": "jensepas@gmail.com"
         }
     ],
     "minimum-stability": "dev"
